@@ -1,0 +1,88 @@
+body {
+	font-family: 'Kanit', sans-serif;
+	/* background-image: url(/public/img/dic.jpg); */
+	background-color: #191414;
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+	/* border-radius: 10px; */
+	margin: 0;
+	padding: 0;
+	
+}
+input {
+	color: #ffffff;
+}
+
+header {
+	background-color: #1ed750;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	border-radius: 10px;
+	
+}
+
+h1 {
+	font-family: 'Kanit', sans-serif;
+	margin: 0;
+	color: #ffffff;
+	
+}
+
+section.microphone {
+	margin: 50px auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Kanit', sans-serif;
+	font-size: 2em;
+	margin-bottom: 20px;
+	color: #ffffff;	
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+p {
+	font-family: 'Kanit', sans-serif;
+	font-size: 1.2em;
+	line-height: 1.5;
+	color: #ffffff;	
+
+}
+
+footer {
+	background-color: #1ed750;
+	color: #fff;
+	padding: 0.01pc;
+	text-align: center;
+	font-family: 'Kanit', sans-serif;
+	border-radius: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    background-color: #ffffff;
+    color: #191414;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #545151;
+    cursor: default;
+  }
+
+  rec {
+	margin-bottom: 100px;
+
+
+}
